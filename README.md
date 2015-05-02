@@ -14,8 +14,7 @@ Teams
 -----
 
 - [Amazing Project](#) by People With Computers
-
-
+- [PRIZM](https://github.com/MikhaileSolomon/PRIZM) by PRIZM
 
 Registering Your Team
 ---------------------
